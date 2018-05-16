@@ -5,4 +5,5 @@
 - [The Const Applicative and Monoids](https://blog.jle.im/entry/const-applicative-and-monoids.html)
 - [Best Haskell Programming Books For Functional Programming | Online Books Review](https://www.onlinebooksreview.com/articles/haskell-programming-book)
 - [Haskell Reading Group](https://hackwithlambda.github.io/reading-group/)
-- (Path to) Learn Haskell (https://github.com/bitemyapp/learnhaskell)
+- [(Path to) Learn Haskell](https://github.com/bitemyapp/learnhaskell)
+- [Using Functions for Easier Programming](https://cacm.acm.org/magazines/2018/5/227202-using-functions-for-easier-programming/fulltext)
