@@ -7,3 +7,4 @@
 - [Haskell Reading Group](https://hackwithlambda.github.io/reading-group/)
 - [(Path to) Learn Haskell](https://github.com/bitemyapp/learnhaskell)
 - [Using Functions for Easier Programming](https://cacm.acm.org/magazines/2018/5/227202-using-functions-for-easier-programming/fulltext)
+- [Introduction to Cabal | Haskell at Work](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html)
