@@ -8,3 +8,4 @@
 - [(Path to) Learn Haskell](https://github.com/bitemyapp/learnhaskell)
 - [Using Functions for Easier Programming](https://cacm.acm.org/magazines/2018/5/227202-using-functions-for-easier-programming/fulltext)
 - [Introduction to Cabal | Haskell at Work](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html)
+- [Haskell Lens Operator Onboarding](https://medium.com/urbint-engineering/haskell-lens-operator-onboarding-a235481e8fac)
