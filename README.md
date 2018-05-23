@@ -1,5 +1,13 @@
 # awesome-lleida-developers
 
+## Contents
+
+- [Haskell](#haskell)
+  - [Tools](#tools)
+  - [Lenses](#lenses)
+  - [Books](#books)
+  - [Language docs](#language-docs)
+
 ## Haskell
 
 ### Tools
