@@ -28,3 +28,4 @@ Curated list of links and resources shared in our Meetup sessions or Slack chat
 - [Haskell Reading Group](https://hackwithlambda.github.io/reading-group/)
 - [(Path to) Learn Haskell](https://github.com/bitemyapp/learnhaskell)
 - [Using Functions for Easier Programming](https://cacm.acm.org/magazines/2018/5/227202-using-functions-for-easier-programming/fulltext)
+- [ADTs (Algebraic Data Types) in Haskell](http://muattiyah.com/posts/haskell-adts/) - A brief introduction to data types.
