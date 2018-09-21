@@ -12,6 +12,7 @@ Curated list of links and resources shared in our Meetup sessions or Slack chat
 
 ### Tools
 - [Introduction to Cabal | Haskell at Work](https://haskell-at-work.com/episodes/2018-05-13-introduction-to-cabal.html)
+- [Haskell: Build Tools](https://kowainik.github.io/posts/2018-06-21-haskell-build-tools.html)
 
 ### Lenses
 - [Haskell Lens Operator Onboarding](https://medium.com/urbint-engineering/haskell-lens-operator-onboarding-a235481e8fac)
